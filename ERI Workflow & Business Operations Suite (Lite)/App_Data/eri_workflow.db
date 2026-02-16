@@ -1,0 +1,6 @@
+﻿namespace ERI_Workflow___Business_Operations_Suite__Lite_.App_Data
+{
+    public class eri_workflow
+    {
+    }
+}
